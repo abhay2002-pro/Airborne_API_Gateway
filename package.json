@@ -20,5 +20,8 @@
     "sequelize": "^6.31.1",
     "sequelize-cli": "^6.6.0",
     "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^2.0.6"
   }
 }
